@@ -2,6 +2,7 @@
 ./sample_dir
 
 ./jupyter/.ipynb_checkpoints/**/*.*
+./jupyter/.ipynb_checkpoints
 *.pyc
 Untitled*.*
 settings.json
